@@ -1,4 +1,4 @@
 console.log("Hello! Git!")
 console.log("Hello! Github!")
 console.log("Hello from dev-ash")
-console.log("Trying out revert!")
+console.log("Trying revert")
