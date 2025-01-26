@@ -1,4 +1,5 @@
-## Heyoo everyone, welcome to my Git guide!
+## Welcome to Git!
 
-- Yo, Jonny here!
+- Yo, Kat here!
+- This is coming from 'dev-kat'
 - I'm adding this from 'fix-branch'
